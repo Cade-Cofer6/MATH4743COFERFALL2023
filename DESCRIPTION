@@ -1,0 +1,11 @@
+Package: MATH4753COFERFALL2023
+Type: Package
+Title: Functions for FALL 4753
+Version: 0.1.0
+Author: Cade Cofer
+Maintainer: Cade Cofer <cade.c.cofer-1@ou.edu>
+Description: functions
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
